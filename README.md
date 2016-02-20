@@ -1,5 +1,6 @@
 # Elasticsearch Docker
-
+[![Image Size](https://img.shields.io/imagelayers/image-size/nilportugues/elasticsearch/latest.svg)](https://imagelayers.io/?images=nilportugues/elasticsearch:latest)
+[![Docker Pulls](https://img.shields.io/docker/pulls/nilportugues/elasticsearch.svg)](https://hub.docker.com/r/nilportugues/elasticsearch/)
 
 ## Building the container
 

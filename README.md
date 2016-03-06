@@ -1,6 +1,7 @@
 # Elasticsearch Docker
 [![Image Size](https://img.shields.io/imagelayers/image-size/nilportugues/elasticsearch/latest.svg)](https://imagelayers.io/?images=nilportugues/elasticsearch:latest)
 [![Docker Pulls](https://img.shields.io/docker/pulls/nilportugues/elasticsearch.svg)](https://hub.docker.com/r/nilportugues/elasticsearch/)
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://paypal.me/nilportugues)
 
 ## Building the container
 
